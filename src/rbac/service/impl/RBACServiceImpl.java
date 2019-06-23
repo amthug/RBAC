@@ -1,4 +1,4 @@
-package locus.rbac.service.impl;
+package rbac.service.impl;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -6,10 +6,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import locus.rbac.entities.Resource;
-import locus.rbac.entities.User;
-import locus.rbac.enums.ActionType;
-import locus.rbac.enums.RoleType;
+import rbac.entities.Resource;
+import rbac.entities.User;
+import rbac.enums.ActionType;
+import rbac.enums.RoleType;
 
 public class RBACServiceImpl {
 

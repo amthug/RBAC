@@ -1,8 +1,8 @@
-package locus.rbac.entities;
+package rbac.entities;
 
 import java.util.List;
 
-import locus.rbac.enums.RoleType;
+import rbac.enums.RoleType;
 
 public class Resource {
 

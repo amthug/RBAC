@@ -1,4 +1,4 @@
-package locus.rbac.enums;
+package rbac.enums;
 
 public enum RoleType {
 
